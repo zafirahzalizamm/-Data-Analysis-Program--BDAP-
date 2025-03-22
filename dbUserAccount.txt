@@ -1,0 +1,3 @@
+zafirah,Qwerty1,Admin,Active
+sabreena,Qwerty2,Buyer,Active
+ameera,Qwerty3,Buyer,Active
